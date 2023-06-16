@@ -12,4 +12,3 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielvieira004) 
 
-![Snake animation](https://github.com/gabrielvieira04/gabrielvieira04/blob/output/github-contribution-grid-snake.svg)
